@@ -21,11 +21,11 @@ This is the backend API for the Educify Recommendation Page built with **Node.js
 ---
 
 ## Tech Stack
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Nodemailer](https://nodemailer.com/) (for sending emails)
-- [ts-node-dev](https://github.com/wclr/ts-node-dev) (for development)
+- [Node.js]
+- [Express.js]
+- [TypeScript]
+- [Nodemailer]
+- [ts-node-dev]
 
 ---
 
