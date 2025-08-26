@@ -19,7 +19,6 @@ const SendEmail = async (to: String, subject: String, message: String) => {
         };
 
         // Send mail
-        // await transporter.sendMail(mailOptions);
         await transporter.sendMail(mailOptions, (error, info) => {
             if (error) {
                 transporter.close();
